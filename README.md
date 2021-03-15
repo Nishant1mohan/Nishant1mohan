@@ -4,7 +4,7 @@
        Full stack developement.
        Web designing including Html, css, javascript, react
        Laravel/php and Vue js
-       Wordpress Developement
+       Wordpress theme Developement
        
 
 - 📫 How to reach me ...
